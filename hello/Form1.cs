@@ -19,7 +19,7 @@ namespace hello
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("hello");
+            MessageBOx,Show("you wont get it because your blonde)"
         }
     }
 }
